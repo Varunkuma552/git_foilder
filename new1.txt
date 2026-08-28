@@ -1,1 +1,1 @@
-this new text file two
+this new text file two with content
